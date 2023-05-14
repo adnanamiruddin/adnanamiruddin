@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muh. Adnan Putra Amiruddin</h1>
 <h3 align="center">Junior FrontEnd Developer from Makassar, Indonesia</h3>
 
-<img align="right" alt="Computer Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Magic_Fire_Swirl_Animation.gif" />
+<img align="right" alt="Computer Coding" width="400" src="[https://upload.wikimedia.org/wikipedia/commons/e/ef/Magic_Fire_Swirl_Animation.gif](https://www.kreatifa.com/wp-content/uploads/2017/06/jstips-animation.gif)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanamiruddin&label=Profile%20views&color=0e75b6&style=flat" alt="adnanamiruddin" /> </p>
 
