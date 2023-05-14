@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muh. Adnan Putra Amiruddin</h1>
 <h3 align="center">Junior FrontEnd Developer from Makassar, Indonesia</h3>
 
-<img align="right" alt="Computer Coding" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" />
+<img align="right" alt="Computer Coding" width="400" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanamiruddin&label=Profile%20views&color=0e75b6&style=flat" alt="adnanamiruddin" /> </p>
 
