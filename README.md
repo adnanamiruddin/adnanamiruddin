@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, and Next**
 
-- 👨‍💻 All of my projects are available at [https://adnan-website1.mradnan34.repl.co/](https://adnan-website1.mradnan34.repl.co/)
+- 👨‍💻 All of my projects are available at [https://adnan-website3.vercel.app/](https://adnan-website3.vercel.app/)
 
 - 📫 How to reach me **adnan.amiruddin34@gmail.com**
 
